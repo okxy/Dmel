@@ -1,56 +1,52 @@
-#Contents
-* [Beginner's Delight](#beginners-delight)
-* [Style Guide and Idioms](#style-guide-and-idioms)
+#Biolinkss
+* [Journals](#Journals)
+* [Methods & Resources](#Methods & Resources)
+    * [Sequence Analysis](#Sequence Analysis)
+* [Fly related](#style-guide-and-idioms)
+* [References](#References)
 
-* [Web](#web)
-    * [Frameworks](#frameworks)
-        * [Flask](#flask)
-        * [Web2Py](#web2py)
-        * [Django](#django)
-        * [Bottle](#bottle)
-    * [API and Web Services](#api-and-web-services)
-    * [Scraping](#scraping)
 
 * [Career Toolbox](#Career Toolbox)
-LINKS
-Journals	
-[Science](www.sciencemag.org)  	 
- 	Cell	Genes & Development
- 	Nature	Nature Neuroscience
- 	Neuron	Caltech Online Journals
- 	Development	Current Biology Online
- 	PLOS Biology	Journal of Neuroscience
+* [Others](#Others)
+
+
+##Journals	
+[Science](http://www.sciencemag.org)        [Cell](http://www.cell.com/cell)       [Genes &    Development](http://www.genesdev.org/)       	[Nature](http://www.nature.com/nature/index.html)      	[Nature Neuroscience](http://www.nature.com/neuro)   
+         	[Neuron](http://www.neuron.org/)	         [Caltech Online Journals](http://ojdb.library.caltech.edu/)
+ 	         [Development](http://dev.biologists.org/)       	[Current Biology](http://www.current-biology.com)
+ 	         [PLOS Biology](http://biology.plosjournals.org/)        	[Journal of Neuroscience](http://www.jneurosci.org/)
  		 
  	 	 
-  References	PubCrawler	Entrez PubMed
- 	SCIsearch	Caltelch Library
- 	Dictionary	Encyclopaedia
+##References	
+[PubCrawler](http://pubcrawler.gen.tcd.ie/about.html)	[Entrez PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi)
+ 	[SCIsearch](http://library.caltech.edu/scisearch/index.html)	[Caltelch Library]
+ 	[Dictionary]	[Encyclopaedia]
+
+##Methods & Resources 	 	 
+   * Sequence Analysis
+      * [Blast](http://www.ncbi.nlm.nih.gov/BLAST/)	[NCBI homepage](http://www.ncbi.nlm.nih.gov/)
  	 	 
- 	 	 
- Sequence Analysis	Blast	NCBI homepage
- 	 	 
- 	 	 
- Fly related	P-Screen	Fly in situ hybridization patterns
+	 	 
+  	 	 
+##Fly related	
+P-Screen	Fly in situ hybridization patterns
  	FlyBase	BDGP: Drosophila Gene Collection
  	WormBase	Berkeley genome project
  	SMART: Domain list	EXELIXIS - Drosophila Stock Collection
  	Oligo toolkit	Bloomington Stock Center Homepage
  	 	SMART - Simple Modular Architecture Research Tool
  	 	 
-Companies	Qiagen	New England Biolabs
+##Companies	
+Qiagen	New England Biolabs
  	Biorad	Invitrogen
  		
-Caltech facilities	Seqaxp server	DNA sequence pickup
+#Caltech facilities	Seqaxp server	DNA sequence pickup
 Confocal Calendar	IDT oligo ordering
  	 	 
 Campus life	Caltech Home	Super shuttle from Caltech
  	Caltech Directory	 
  	 	 
-Others	 	 
-Search Internet:  	Yahoo	Google
- 	Excite	Metacrawler
-Current News:	CNN	ABC News
-Pasadena:	Weather	Movies
+
 
 ##Journals
 * [Beginner's guide to Python](http://wiki.python.org/moin/BeginnersGuide)
@@ -70,3 +66,8 @@ Pasadena:	Weather	Movies
 * [How to Create Barcodes in Your PDFs with Python](http://java.dzone.com/articles/how-create-barcodes-your-pdfs)
 * 
 
+##Others	 	 
+Search Internet:  	Yahoo	Google
+ 	Excite	Metacrawler
+Current News:	CNN	ABC News
+Pasadena:	Weather	Movies
